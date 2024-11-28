@@ -14,6 +14,12 @@ This is a simple Streamlit application that extracts and categorizes all the lin
 
 ---
 
+## Try the Application
+
+You can try the live application here: [Website Link Extractor](https://linkextractor.streamlit.app/)
+
+---
+
 ## Requirements
 
 Install the necessary Python libraries before running the application:
@@ -24,7 +30,7 @@ pip install -r requirements.txt
 
 ---
 
-## How to Run
+## How to Run locally
 
 1. Clone the repository or download the `app.py` file.
 2. Navigate to the folder containing the `app.py` file.
