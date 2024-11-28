@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import requests
 from urllib.parse import urljoin, urlparse
 
+st.set_page_config(page_title="Website Link Extractor", page_icon="🔗")
+
 def categorize_links(base_url, links):
     internal_links = set()
     external_links = set()
